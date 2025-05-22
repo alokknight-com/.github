@@ -18,19 +18,6 @@ We create full-stack, secure, modular, and enterprise-ready platforms using a br
 
 ---
 
-### 👨‍💼 Founder
-
-**Alok Knight**  
-- 👨‍💻 Full-Stack Developer | Software Architect  | DevOps
-- 📍 Based in India  
-- 💼 Founder of [AlokKnight Technologies](https://alokknight.com)  
-- 🔗 GitHub: [@alokknight](https://github.com/alokknight)  
-- 🌐 Portfolio: [alokknight.com](https://alokknight.com)
-
-Alok is passionate about building high-impact software solutions using modern tech stacks. He has over 5+ years of experience working across ERP, SaaS, eCommerce, health, and edtech platforms.
-
----
-
 ### 💼 Our Expertise
 
 We work across a wide variety of technologies, platforms, and tools to build high-performance, scalable software products.
